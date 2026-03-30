@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Meet Maru
+# 👋 Hey there , I'm Meet Maru
 
+>**CSE (AI & ML), 2^nd Year Student 
 > **Python Developer & Open Source Contributor**
 > Python Enthusiast | Building Useful Tools
 > Developer | Automating the Boring Stuff with Python
@@ -18,33 +19,8 @@
 | [**python-background-remover**](https://github.com/ivengexnce/python-background-remover) | Remove image backgrounds locally — CLI + GUI + batch. No API key, no internet, no login. | `rembg` `Pillow` `tkinter` | ✅ Active | [Repo →](https://github.com/ivengexnce/python-background-remover) |
 
 
-
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-
-**Libraries & Frameworks**
-![Pillow](https://img.shields.io/badge/Pillow-FFAFF0?logo=python&logoColor=black)
-![rembg](https://img.shields.io/badge/rembg-FF6B35)
-![tkinter](https://img.shields.io/badge/tkinter-3776AB?logo=python&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
----
-
 ## 📈 GitHub Stats
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=compact&hide_border=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ivengexnce&hide_border=true&theme=default)
 
@@ -69,9 +45,13 @@
 ## 📞 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149)
+
 [![GitHub](https://img.shields.io/badge/GitHub-ivengexnce-181717?logo=github&logoColor=white)](https://github.com/ivengexnce)
+
 [![Instagram](https://img.shields.io/badge/Instagram-ivengexnce-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ivengexnce)
+
 [![Twitter](https://img.shields.io/badge/Twitter-ivengexnce-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ivengexnce)
+
 [![Email](https://img.shields.io/badge/Email-meetmaru149@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
 
 ---
