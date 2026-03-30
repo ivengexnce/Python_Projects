@@ -1,8 +1,11 @@
 # 👋 Hey there , I'm Meet Maru
 
-> **CSE (AI & ML), 2nd Year Student **
-> **Python Developer & Open Source Contributor**
-> Python Enthusiast | Building Useful Tools
+> ** CSE (AI & ML), 2nd Year Student ** |
+
+> **Python Developer & Open Source Contributor** |
+
+> Python Enthusiast | Building Useful Tools |
+
 > Developer | Automating the Boring Stuff with Python
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://python.org)
