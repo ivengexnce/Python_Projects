@@ -1,6 +1,6 @@
 # 👋 Hey there , I'm Meet Maru
 
->**CSE (AI & ML), 2^nd Year Student 
+> **CSE (AI & ML), 2nd Year Student **
 > **Python Developer & Open Source Contributor**
 > Python Enthusiast | Building Useful Tools
 > Developer | Automating the Boring Stuff with Python
