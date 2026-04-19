@@ -1,11 +1,8 @@
 # 👋 Hey there , I'm Meet Maru
 
-> **CSE (AI & ML), 2nd Year Student** 
-
-> **Python Developer & Open Source Contributor** 
-
-> Python Enthusiast | Building Useful Tools 
-
+> **CSE (AI & ML), 2nd Year Student**
+> **Python Developer & Open Source Contributor**
+> Python Enthusiast | Building Useful Tools
 > Developer | Automating the Boring Stuff with Python
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -20,10 +17,9 @@
 | Project | Description | Tech Stack | Status | Links |
 |---|---|---|---|---|
 | [**python-background-remover**](https://github.com/ivengexnce/python-background-remover) | Remove image backgrounds locally — CLI + GUI + batch. No API key, no internet, no login. | `rembg` `Pillow` `tkinter` | ✅ Active | [Repo →](https://github.com/ivengexnce/python-background-remover) |
-
+| [**TicTacToe-Python**](https://github.com/ivengexnce/TicTacToe-Python) | Interactive Tic Tac Toe with AI opponent (Minimax), difficulty levels, sound effects & GUI. Supports PvP and PvAI modes. | `tkinter` `pygame` `minimax` | ✅ Active | [Repo →](https://github.com/ivengexnce/TicTacToe-Python) · [Live →](https://tic-tac-toe-pythongame.vercel.app) |
 
 ## 📈 GitHub Stats
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ivengexnce&hide_border=true&theme=default)
 
@@ -48,13 +44,9 @@
 ## 📞 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149)
-
 [![GitHub](https://img.shields.io/badge/GitHub-ivengexnce-181717?logo=github&logoColor=white)](https://github.com/ivengexnce)
-
 [![Instagram](https://img.shields.io/badge/Instagram-ivengexnce-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ivengexnce)
-
 [![Twitter](https://img.shields.io/badge/Twitter-ivengexnce-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ivengexnce)
-
 [![Email](https://img.shields.io/badge/Email-meetmaru149@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
 
 ---
