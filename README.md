@@ -1,63 +1,36 @@
-# 👋 Hey there , I'm Meet Maru
+Hi, I’m Meet Maru 👋
 
-> **CSE (AI & ML), 2nd Year Student**
+CSE (AI & ML) student · 3rd year · Viva Institute of Technology, Mumbai
 
-> **Python Developer & Open Source Contributor**
+I build Python tools that solve real problems — background removal, automation, computer vision. Currently focused on FastAPI and OpenCV. Open to internships and open source collaboration.
 
-> Python Enthusiast | Building Useful Tools
+Projects
+Project	What it does	Stack	Status
+python-background-remover	Remove image backgrounds locally via CLI, GUI, or batch mode. No API key, no login, no internet required.	rembg Pillow tkinter	✅ Active
+TicTacToe-Python	Tic Tac Toe with Minimax AI opponent, difficulty levels, sound effects, PvP and PvAI modes.	tkinter pygame	✅ Active · Live →
+Tech
 
-> Developer | Automating the Boring Stuff with Python
+Languages: Python, JavaScript (basics)
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://python.org)
-[![GitHub followers](https://img.shields.io/github/followers/ivengexnce?style=flat&label=Follow&logo=github)](https://github.com/ivengexnce)
-[![Profile views](https://komarev.com/ghpvc/?username=ivengexnce&label=Profile+views&color=0e75b6&style=flat)](https://github.com/ivengexnce)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)](https://github.com/ivengexnce)
+Libraries / Frameworks: Pillow, rembg, tkinter, pygame, FastAPI (learning), OpenCV (learning)
 
----
+Tools: Git, GitHub, VS Code
 
-## 🗂️ My Projects
+Currently Learning
+FastAPI — REST endpoints, routing, request handling
+OpenCV — computer vision and image processing
+GitHub Stats
+Show Image
 
-| Project | Description | Tech Stack | Status | Links |
-|---|---|---|---|---|
-| [**python-background-remover**](https://github.com/ivengexnce/python-background-remover) | Remove image backgrounds locally — CLI + GUI + batch. No API key, no internet, no login. | `rembg` `Pillow` `tkinter` | ✅ Active | [Repo →](https://github.com/ivengexnce/python-background-remover) |
-| [**TicTacToe-Python**](https://github.com/ivengexnce/TicTacToe-Python) | Interactive Tic Tac Toe with AI opponent (Minimax), difficulty levels, sound effects & GUI. Supports PvP and PvAI modes. | `tkinter` `pygame` `minimax` | ✅ Active | [Repo →](https://github.com/ivengexnce/TicTacToe-Python) · [Live →](https://tic-tac-toe-pythongame.vercel.app) |
+Profile views
 
-## 📈 GitHub Stats
+Open to
+Collaboration on Python, automation, or image processing projects
+First-time contributors — beginner-friendly issues across all repos
+Internship or freelance opportunities — Python scripting, automation, GUI tools, remote
+Connect
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ivengexnce&hide_border=true&theme=default)
-
----
-
-## 🌱 Currently Learning
-
-- **FastAPI** — building web APIs with Python (REST endpoints, routing, request handling)
-- **OpenCV** — computer vision and image processing beyond basic Pillow
-- _(Update this as you grow — shows you're always levelling up)_
-
----
-
-## 🤝 Open to
-
-- **Collaborating** on Python / open source projects — especially automation, image processing, or beginner-friendly tools
-- **First-time contributors** — all my repos maintain beginner-friendly issues
-- **Freelance / internship opportunities** — Python scripting, automation, GUI tools, open to remote
-
----
-
-## 📞 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149)
-[![GitHub](https://img.shields.io/badge/GitHub-ivengexnce-181717?logo=github&logoColor=white)](https://github.com/ivengexnce)
-[![Instagram](https://img.shields.io/badge/Instagram-ivengexnce-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ivengexnce)
-[![Twitter](https://img.shields.io/badge/Twitter-ivengexnce-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ivengexnce)
-[![Email](https://img.shields.io/badge/Email-meetmaru149@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
-
----
-
-## ⭐ Support
-
-If any of my projects helped you, a star goes a long way — it helps others find these tools too!
-
----
-
-_Thanks for visiting my profile · Happy coding! 🐍_
+LinkedIn
+GitHub
+Instagram
+Email
