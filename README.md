@@ -1,36 +1,54 @@
-Hi, I’m Meet Maru 👋
+# Python Projects
 
-CSE (AI & ML) student · 3rd year · Viva Institute of Technology, Mumbai
+Index of my Python projects. Each lives in its own repository.
 
-I build Python tools that solve real problems — background removal, automation, computer vision. Currently focused on FastAPI and OpenCV. Open to internships and open source collaboration.
+Built alongside my CSE (AI & ML) degree at Viva Institute of Technology, Mumbai. These are tools I built to solve real problems — not exercises, not tutorials. The foundations behind them live in [python_lectures_from_beginning →](https://github.com/ivengexnce/python_lectures_from_beginning)
 
-Projects
-Project	What it does	Stack	Status
-python-background-remover	Remove image backgrounds locally via CLI, GUI, or batch mode. No API key, no login, no internet required.	rembg Pillow tkinter	✅ Active
-TicTacToe-Python	Tic Tac Toe with Minimax AI opponent, difficulty levels, sound effects, PvP and PvAI modes.	tkinter pygame	✅ Active · Live →
-Tech
+---
 
-Languages: Python, JavaScript (basics)
+## Projects
 
-Libraries / Frameworks: Pillow, rembg, tkinter, pygame, FastAPI (learning), OpenCV (learning)
+### [python-background-remover](https://github.com/ivengexnce/python-background-remover)
 
-Tools: Git, GitHub, VS Code
+Removes image backgrounds locally via CLI, GUI, or batch mode. No API key, no login, no internet required.
 
-Currently Learning
-FastAPI — REST endpoints, routing, request handling
-OpenCV — computer vision and image processing
-GitHub Stats
-Show Image
+What I learned: how `rembg` handles alpha channel masking, `tkinter` file dialogs, and building a tool that non-technical users can actually run.
 
-Profile views
+Stack: `rembg` `Pillow` `tkinter`
 
-Open to
-Collaboration on Python, automation, or image processing projects
-First-time contributors — beginner-friendly issues across all repos
-Internship or freelance opportunities — Python scripting, automation, GUI tools, remote
-Connect
+[Repo →](https://github.com/ivengexnce/python-background-remover)
 
-LinkedIn
-GitHub
-Instagram
-Email
+---
+
+### [TicTacToe-Python](https://github.com/ivengexnce/TicTacToe-Python)
+
+Tic Tac Toe with a Minimax AI opponent, three difficulty levels, sound effects, and both PvP and PvAI modes.
+
+What I learned: implementing Minimax from scratch, managing game state across a GUI, and integrating audio with `pygame`.
+
+Stack: `tkinter` `pygame`
+
+[Repo →](https://github.com/ivengexnce/TicTacToe-Python) · [Live →](https://tic-tac-toe-pythongame.vercel.app)
+
+---
+
+## About Me
+
+3rd year CSE (AI & ML) student. I also work with FastAPI, React, and machine learning — see my full profile at [github.com/ivengexnce](https://github.com/ivengexnce).
+
+**FlyRank internship, July–October 2026 · Smart India Hackathon campus qualifier · VP, Computer Society of India**
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://meetmaru.netlify.app)
+[![Email](https://img.shields.io/badge/Email-meetmaru149@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149)
+[![GitHub](https://img.shields.io/badge/GitHub-ivengexnce-181717?logo=github&logoColor=white)](https://github.com/ivengexnce)
+
+---
+
+## License
+
+MIT. Each project has its own license file inside its repository.
